@@ -6,7 +6,7 @@
     {
       "name": "emil",
       "description": "Emil Kowalski'nin UI ve animasyon skill'leri",
-      "source": { "source": "github", "repo": "emilkowalski/skills" },
+      "source": { "source": "url", "url": "https://github.com/emilkowalski/skills.git" },
       "homepage": "https://github.com/emilkowalski/skills",
       "license": "MIT"
     }
