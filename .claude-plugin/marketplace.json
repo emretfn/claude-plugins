@@ -1,0 +1,14 @@
+{
+  "name": "emretufan-plugins",
+  "description": "Kişisel Claude Code plugin kataloğum",
+  "owner": { "name": "Emre Tufan" },
+  "plugins": [
+    {
+      "name": "emil",
+      "description": "Emil Kowalski'nin UI ve animasyon skill'leri",
+      "source": { "source": "github", "repo": "emilkowalski/skills" },
+      "homepage": "https://github.com/emilkowalski/skills",
+      "license": "MIT"
+    }
+  ]
+}
