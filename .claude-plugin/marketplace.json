@@ -9,6 +9,13 @@
       "source": { "source": "url", "url": "https://github.com/emilkowalski/skills.git" },
       "homepage": "https://github.com/emilkowalski/skills",
       "license": "MIT"
+    },
+    {
+      "name": "cloudflare",
+      "description": "Cloudflare'in çok aşamalı güvenlik denetimi skill'i",
+      "source": { "source": "url", "url": "https://github.com/cloudflare/security-audit-skill.git" },
+      "homepage": "https://github.com/cloudflare/security-audit-skill",
+      "license": "MIT"
     }
   ]
 }
